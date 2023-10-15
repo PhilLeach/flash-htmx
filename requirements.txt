@@ -1,3 +1,2 @@
-Flask==2.1.1
-Flask-Assets==2.0
-pytailwindcss==0.1.4
+Flask
+pytailwindcss
